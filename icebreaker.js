@@ -14,7 +14,10 @@ var icebreakers = [
 'Worst haircut?',
 'Favorite holiday meal?',
 'Favorite restaurant in town and what do you order there?',
-'Favorite place to hike?'
+'Favorite place to hike?',
+'What is the most insulting compliment you have received?',
+'What is a food you hated as a child but love now?',
+'Most useless skill?'	
 ]
 
 function newIcebreaker() {
