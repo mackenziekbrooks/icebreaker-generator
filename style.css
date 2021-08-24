@@ -1,0 +1,19 @@
+body {
+	background-color: black;
+	font-family: Courier New;
+	color: #fff;
+	font-size: 120px;
+	margin: 25px;
+}
+
+.icebreakerDisplay {
+
+}
+
+button {
+	padding: 30px;
+	color: #000;
+	background-color: #FFF;
+	border: 0px solid;
+	font-size: large;
+}
