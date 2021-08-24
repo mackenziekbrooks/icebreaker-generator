@@ -13,7 +13,8 @@ var icebreakers = [
 'Favorite 90s movie?',
 'Worst haircut?',
 'Favorite holiday meal?',
-'Favorite restaurant in town and what do you order there?'
+'Favorite restaurant in town and what do you order there?',
+'Favorite place to hike?'
 ]
 
 function newIcebreaker() {
