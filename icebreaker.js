@@ -17,7 +17,10 @@ var icebreakers = [
 'Favorite place to hike?',
 'What is the most insulting compliment you have received?',
 'What is a food you hated as a child but love now?',
-'Most useless skill?'	
+'Most useless skill?',	
+'What is your most quoted movie?',
+'What is the earliest book you remember having a big impact on you?',
+'What is a weird belief or misunderstanding you held for a long time?'
 ]
 
 function newIcebreaker() {
