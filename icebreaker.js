@@ -19,6 +19,9 @@ var icebreakers = [
 'What is a food you hated as a child but love now?',
 'Most useless skill?',	
 'What is your most quoted movie?',
+'Favorite tv-watching snack?',
+'What is your go-to comfort meal?',
+'First concert, best concert, most embarrassing concert?',
 'What is the earliest book you remember having a big impact on you?',
 'What is a weird belief or misunderstanding you held for a long time?'
 ]
