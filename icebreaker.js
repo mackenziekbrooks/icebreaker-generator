@@ -23,7 +23,10 @@ var icebreakers = [
 'What is your go-to comfort meal?',
 'First concert, best concert, most embarrassing concert?',
 'What is the earliest book you remember having a big impact on you?',
-'What is a weird belief or misunderstanding you held for a long time?'
+'What is a weird belief or misunderstanding you held for a long time?',
+'You are building your dream house - what one room or feature must you include?',
+'Do you collect anything?',
+'Who was your favorite teacher in school and why?'
 ]
 
 function newIcebreaker() {
