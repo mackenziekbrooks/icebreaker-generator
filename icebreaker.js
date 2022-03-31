@@ -26,7 +26,8 @@ var icebreakers = [
 'What is a weird belief or misunderstanding you held for a long time?',
 'You are building your dream house - what one room or feature must you include?',
 'Do you collect anything?',
-'Who was your favorite teacher in school and why?'
+'Who was your favorite teacher in school and why?',
+'What is your favorite kitchen appliance/utensil?'
 ]
 
 function newIcebreaker() {
