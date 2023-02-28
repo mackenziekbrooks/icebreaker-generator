@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/mackenz1/public_html/icebreaker-generator
+    - /bin/cp -R images $DEPLOYPATH
