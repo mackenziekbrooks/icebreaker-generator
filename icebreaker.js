@@ -27,7 +27,14 @@ var icebreakers = [
 'You are building your dream house - what one room or feature must you include?',
 'Do you collect anything?',
 'Who was your favorite teacher in school and why?',
-'What is your favorite kitchen appliance/utensil?'
+'What is your favorite kitchen appliance/utensil?',
+'Describe your musical taste using food.',
+'Favorite snow day activity?',
+'What item have you lost that you want the universe to give back?',
+'Do you have a collection? Is it organized? How?',
+'You are building your dream house - what one room or feature must you include?',
+'Where is your favorite place?',
+'What always cheers you up?'
 ]
 
 function newIcebreaker() {
