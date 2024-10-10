@@ -34,7 +34,10 @@ var icebreakers = [
 'Do you have a collection? Is it organized? How?',
 'You are building your dream house - what one room or feature must you include?',
 'Where is your favorite place?',
-'What always cheers you up?'
+'What always cheers you up?',
+'What food did you hate as a kid?',
+'What's your birth order and how do you feel about it?',
+'If you had to live in the world of a movie as a side character, which movie would it be?'
 ]
 
 function newIcebreaker() {
